@@ -1,0 +1,7 @@
+# Kiro IDE local files
+.kiro/extensions/
+.kiro/powers/registries/
+.kiro/argv.json
+
+# macOS
+.DS_Store
