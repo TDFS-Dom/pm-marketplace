@@ -557,3 +557,257 @@ LinkedInSonic là nền tảng AI all-in-one giúp professionals xây dựng th�
 | v2.0 | T+8 → T+12 tháng | CRM Integration, AI DM Assistant, Top Voice program |
 
 ---
+
+## 8. User Stories
+
+### Epic 1: Personal Voice AI
+
+**Story 1.1: Train Personal Voice**
+- **Description**: As a professional, I want the AI to learn my writing style from my past LinkedIn posts, so that generated content sounds like me, not a robot.
+- **Acceptance Criteria**:
+  1. User paste/import 5-10 previous LinkedIn posts
+  2. AI analyzes: tone, vocabulary, sentence structure, emoji usage, formatting style
+  3. Generate "Voice Profile" summary: "Your style is: conversational, uses short paragraphs, storytelling-heavy, minimal emojis"
+  4. User can review và adjust Voice Profile
+  5. All future generated content follows this voice
+  6. Voice accuracy improves with each user rating (thumbs up/down)
+
+**Story 1.2: Generate content với Personal Voice**
+- **Description**: As a user, I want to generate a LinkedIn post on a topic using my personal voice, so that I can publish authentic content quickly.
+- **Acceptance Criteria**:
+  1. Nhập topic hoặc chọn từ trending topics
+  2. Chọn format: text post, carousel, poll, story
+  3. AI generate 3 variations trong ≤ 15 giây
+  4. Mỗi variation phản ánh Personal Voice Profile
+  5. User edit, regenerate, hoặc mix-and-match sections
+  6. 1-click copy hoặc schedule
+
+### Epic 2: Trending Topics
+
+**Story 2.1: Discover trending topics**
+- **Description**: As a thought leader, I want to see trending topics in my industry before they go mainstream, so that I can be the first to comment and gain visibility.
+- **Acceptance Criteria**:
+  1. Dashboard hiển thị top 10 trending topics trong industry của user
+  2. Mỗi topic có: trend score (rising/peaking/declining), sample posts, suggested angles
+  3. Real-time updates (refresh mỗi 2 giờ)
+  4. Filter theo: industry, geography, time range
+  5. "Write about this" button → chuyển sang AI Content Studio với topic pre-filled
+  6. Push notification khi có topic mới trending (opt-in)
+
+### Epic 3: Content Studio & Scheduling
+
+**Story 3.1: Create và schedule post**
+- **Description**: As a busy professional, I want to create and schedule a week's worth of LinkedIn posts in one sitting, so that I stay consistent without daily effort.
+- **Acceptance Criteria**:
+  1. Content calendar view: tuần/tháng
+  2. Drag-and-drop posts vào time slots
+  3. AI suggest optimal posting times dựa trên audience data
+  4. Preview post exactly as it will appear trên LinkedIn
+  5. Bulk generate: "Create 5 posts for this week" → AI tạo 5 posts khác nhau
+  6. Auto-publish tại scheduled time
+
+**Story 3.2: Carousel generator**
+- **Description**: As a content creator, I want to create LinkedIn carousels from a topic or blog post, so that I can create visual content that gets high engagement.
+- **Acceptance Criteria**:
+  1. Nhập topic, paste blog URL, hoặc paste text
+  2. AI tạo carousel: 5-10 slides với headline + body text mỗi slide
+  3. Chọn design template (5+ templates)
+  4. Edit text và reorder slides
+  5. Export as PDF (LinkedIn carousel format)
+  6. Preview carousel trước khi publish
+
+### Epic 4: Analytics & Lead Scoring
+
+**Story 4.1: Track content performance**
+- **Description**: As a user, I want to see which posts generate the most engagement and leads, so that I can double down on what works.
+- **Acceptance Criteria**:
+  1. Dashboard: impressions, likes, comments, shares, saves cho mỗi post
+  2. Engagement rate trend over time (chart)
+  3. Top performing posts ranked by engagement
+  4. Follower growth chart (daily/weekly/monthly)
+  5. Best performing content format (text vs carousel vs poll)
+  6. Weekly email report summary
+
+**Story 4.2: Lead scoring**
+- **Description**: As a sales professional, I want to know which LinkedIn connections are most engaged with my content, so that I can prioritize outreach to warm leads.
+- **Acceptance Criteria**:
+  1. List of people who engage most: likes, comments, profile views
+  2. Lead score (1-100) dựa trên: engagement frequency, seniority, company fit
+  3. Filter leads by: score, industry, company size, location
+  4. "Reach out" button → suggested personalized message
+  5. Track lead status: new, contacted, responded, converted
+  6. Export lead list to CSV
+
+---
+
+## 9. Customer Journey Map
+
+### Persona: Sarah (29 tuổi, Senior Account Executive)
+
+| Giai đoạn | Touchpoint | Hành động | Cảm xúc | Pain Point | Cơ hội |
+|-----------|------------|-----------|---------|------------|--------|
+| **Awareness** | LinkedIn feed, Product Hunt | Thấy ad hoặc post về LinkedInSonic từ user khác | Tò mò 🤔 | "Lại một AI tool nữa, có khác gì ChatGPT?" | Demo video: "Tạo 5 posts trong 5 phút — đúng giọng bạn" |
+| **Consideration** | Website, G2 reviews | So sánh với Taplio, SocialSonic, đọc reviews | Quan tâm nhưng skeptical 😐 | "Liệu AI có viết được đúng giọng tôi?" | Free trial 7 ngày, before/after examples, ROI calculator |
+| **Acquisition** | Website signup | Đăng ký free trial, connect LinkedIn account | Kỳ vọng 😊 | Nếu phải nhập credit card → drop-off | No credit card required, 1-click LinkedIn OAuth |
+| **Onboarding** | In-app | Import 5 posts cũ → AI tạo Voice Profile → generate first post | Impressed nếu output tốt 😮 | Nếu AI voice sai → "this is just another generic tool" | Đảm bảo Voice Profile accuracy ≥ 80% từ lần đầu |
+| **Aha Moment** | In-app (ngày 1-3) | Publish AI-generated post → nhận 3x engagement bình thường | "Wow, this actually works!" 🎉 | Nếu engagement không tăng → doubt | Trending topic + Personal Voice = high-quality post |
+| **Engagement** | In-app (tuần 1-4) | Schedule posts hàng tuần, check analytics, maintain streak | Productive, motivated 😄 | Streak bị reset → frustrated | Streak freeze, encouraging notifications |
+| **Retention** | In-app + email | Thấy lead score tăng, warm leads xuất hiện, manager notice | Confident, ROI rõ ràng 💪 | Hết ideas mới, content fatigue | Fresh trending topics, new content formats, seasonal campaigns |
+| **Advocacy** | LinkedIn, Slack, team meeting | Giới thiệu cho team, manager approve team license | Proud, career boost 🌟 | Team onboarding phức tạp | 1-click team invite, manager dashboard, ROI report for boss |
+
+### Khoảnh khắc quan trọng
+
+- **Aha Moment**: Khi user publish AI post đầu tiên và nhận engagement cao hơn bình thường
+- **Moment of Truth**: Voice Profile có đúng giọng user không? (quyết định trust)
+- **Churn Trigger**: 2 tuần không post → mất momentum → cancel subscription
+
+### Cải thiện ưu tiên
+
+1. **Quick win**: Voice Profile demo trong onboarding — user thấy "giọng mình" ngay lập tức
+2. **Quick win**: "ROI Report for Your Boss" — template email để justify tool budget
+3. **Đầu tư lớn**: Personal Voice AI accuracy — quyết định retention dài hạn
+
+---
+
+## 10. North Star Metric
+
+### Phân loại Business Game
+
+LinkedInSonic thuộc **Productivity Game** — giúp professionals tạo content và leads trên LinkedIn hiệu quả hơn.
+
+### North Star Metric
+
+> **Weekly Active Publishers (WAP)** — Số users publish ≥ 1 post qua LinkedInSonic trong 7 ngày qua
+
+**Tại sao WAP?**
+
+| Tiêu chí | Đánh giá |
+|----------|----------|
+| Dễ hiểu | ✅ "Users publish content hàng tuần" — clear |
+| Customer-centric | ✅ Publishing = user nhận value (visibility, engagement, leads) |
+| Sustainable value | ✅ Weekly publishing = habit formed |
+| Vision alignment | ✅ "Biến LinkedIn thành lead machine" = phải publish consistently |
+| Quantitative | ✅ Đo chính xác từ LinkedIn API + internal data |
+| Actionable | ✅ Teams cải thiện qua AI quality, UX, gamification, trending |
+| Leading indicator | ✅ WAP tăng → engagement tăng → leads tăng → revenue tăng |
+
+### Input Metrics
+
+| Input Metric | Mô tả | Tác động lên WAP |
+|-------------|--------|-------------------|
+| **Activation Rate** | % new users publish ≥ 1 post trong tuần đầu | Activated → likely trở thành WAP |
+| **AI Content Accept Rate** | % AI-generated content user publish không sửa nhiều | AI quality cao → publish nhanh hơn → WAP tăng |
+| **Streak Retention** | % users duy trì posting streak ≥ 7 ngày | Streak = habit → WAP ổn định |
+| **Trending Topic Engagement** | % users viết về trending topic sau khi nhận alert | Trending → easy content → WAP tăng |
+| **D7 Retention** | % users quay lại sau 7 ngày | Trực tiếp đo WAP potential |
+
+### Metrics Constellation
+
+```
+                    ┌─────────────────────┐
+                    │  Weekly Active       │
+                    │  Publishers (WAP)    │  ← North Star
+                    └──────────┬──────────┘
+                               │
+          ┌────────────────────┼────────────────────┐
+          │                    │                     │
+   ┌──────┴──────┐    ┌───────┴───────┐    ┌───────┴───────┐
+   │ Activation  │    │ AI Content    │    │ Streak        │
+   │ Rate        │    │ Accept Rate   │    │ Retention     │
+   └─────────────┘    └───────────────┘    └───────────────┘
+          │                    │                     │
+   ┌──────┴──────┐    ┌───────┴───────┐    ┌───────┴───────┐
+   │ Trending    │    │ D7            │    │ Pro           │
+   │ Engagement  │    │ Retention     │    │ Conversion    │
+   └─────────────┘    └───────────────┘    └───────────────┘
+```
+
+---
+
+## 11. GTM Strategy
+
+### Chiến lược tổng quan
+
+**Approach**: Product-Led Growth (PLG) + Community-Led Growth
+**Beachhead segment**: Sales professionals tại B2B SaaS companies (US, UK, Canada)
+
+**Tại sao Sales professionals là beachhead?**
+- Pain point cấp bách và đo được (pipeline, quota)
+- Manager approve budget nếu chứng minh ROI
+- Team license upsell: 1 user → 10 seats
+- Viral trong sales communities (LinkedIn, Slack groups, podcasts)
+
+### Phase 1: Pre-Launch (T-2 → T0)
+
+| Kênh | Hoạt động | Mục tiêu |
+|------|-----------|----------|
+| LinkedIn (own account) | Founder posts about building LinkedInSonic — build in public | 10K followers, 500 waitlist |
+| Product Hunt | Prepare launch: teaser, hunter, community | Top 5 Product of the Day |
+| Beta program | 500 beta users (sales professionals) — feedback + testimonials | 50 testimonials, NPS ≥ 50 |
+| Sales communities | Share value in Slack groups (RevGenius, Pavilion, Modern Sales Pros) | 1K waitlist from communities |
+| Content marketing | Blog: "How I got 50 leads/month from LinkedIn" — SEO play | 5K organic visits/month |
+
+### Phase 2: Launch (T0 → T+2 tháng)
+
+**Messaging chính**: "Stop writing generic LinkedIn posts. Start generating leads."
+
+| Kênh | Hoạt động | Budget |
+|------|-----------|--------|
+| Product Hunt Launch | Launch day campaign, community engagement | 5% budget |
+| LinkedIn Ads | Targeted ads cho sales professionals, founders | 30% budget |
+| AppSumo Deal | Lifetime deal để build initial user base + reviews | 15% budget |
+| Influencer/Creator partnerships | 10 LinkedIn creators review LinkedInSonic | 20% budget |
+| Content SEO | "Best LinkedIn AI tools", "LinkedIn content strategy" | 10% budget |
+| Referral Program | "Give 1 month Pro, get 1 month Pro" | 10% budget |
+| Sales outreach | Direct outreach to sales teams at SaaS companies | 10% budget |
+
+### Phase 3: Growth (T+2 → T+8 tháng)
+
+| Kênh | Hoạt động |
+|------|-----------|
+| Viral loops | Users' LinkedIn posts mention "Created with LinkedInSonic" (opt-in watermark) |
+| B2B Sales | Outbound to sales VPs: "Your team's LinkedIn presence = your pipeline" |
+| Partnerships | Integration với Salesforce, HubSpot, Outreach |
+| Community | LinkedIn group "LinkedInSonic Power Users" — tips, challenges, leaderboard |
+| Podcast sponsorships | Sales podcasts: "30 Minutes to President's Club", "Revenue Builders" |
+| Case studies | "How [Company] generated $500K pipeline from LinkedIn in 90 days" |
+
+### KPI Targets
+
+| Metric | T+2 tháng | T+4 tháng | T+8 tháng | T+12 tháng |
+|--------|-----------|-----------|-----------|------------|
+| Signups | 10K | 30K | 80K | 150K |
+| MAU | 5K | 18K | 50K | 100K |
+| WAP (North Star) | 2K | 8K | 25K | 55K |
+| Pro conversion | 5% | 8% | 10% | 12% |
+| Team licenses | 20 | 100 | 400 | 1,000 |
+| MRR | $15K | $60K | $250K | $600K |
+| CAC | $60 | $45 | $35 | $25 |
+| NPS | 45 | 50 | 55 | 58 |
+
+### Rủi ro và giảm thiểu
+
+| Rủi ro | Xác suất | Giảm thiểu |
+|--------|----------|------------|
+| LinkedIn API restrictions/changes | Trung bình | Diversify: Chrome extension + direct posting, maintain API compliance |
+| AI content detected as "AI-generated" → penalized | Trung bình | Personal Voice AI = unique content, human editing encouraged |
+| Taplio copies Personal Voice feature | Cao | First-mover advantage, continuous improvement, community moat |
+| Users churn after free trial | Cao | Gamification, streak system, show ROI in trial period |
+| "AI content fatigue" trên LinkedIn | Trung bình | Focus on authenticity (Personal Voice), not volume |
+| Privacy concerns (LinkedIn data) | Thấp | Transparent data policy, SOC 2 compliance, minimal data collection |
+
+---
+
+## Tổng kết Flow
+
+```
+Market Research          Strategy              Execution           Go-to-Market
+─────────────────    ─────────────────    ─────────────────    ─────────────────
+1. Competitor         5. Value Prop         7. PRD               10. North Star
+   Analysis           6. Lean Canvas        8. User Stories          Metric
+2. Market Sizing                            9. Journey Map       11. GTM Strategy
+3. Market Segments
+4. User Personas
+```
+
+> Tài liệu này là living document — cần validate assumptions với 50+ beta users trước khi commit full development. Ưu tiên #1: Personal Voice AI accuracy — đây là core differentiator quyết định product-market fit.
