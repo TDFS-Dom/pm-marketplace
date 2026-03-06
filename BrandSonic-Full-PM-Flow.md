@@ -1,8 +1,8 @@
-# SocialVN — Full Product Management Flow
+# BrandSonic — Full Product Management Flow
 ## Nền tảng AI xây dựng thương hiệu cá nhân đa nền tảng cho Việt Nam
 ### (Mô hình SocialSonic mở rộng cho thị trường VN)
 
-> Tài liệu này trình bày toàn bộ quy trình PM cho SocialVN — một nền tảng AI giúp professionals, creators, và doanh nhân Việt Nam xây dựng thương hiệu cá nhân trên đa nền tảng mạng xã hội.
+> Tài liệu này trình bày toàn bộ quy trình PM cho BrandSonic — một nền tảng AI giúp professionals, creators, và doanh nhân Việt Nam xây dựng thương hiệu cá nhân trên đa nền tảng mạng xã hội.
 
 ---
 
@@ -61,7 +61,7 @@ SocialSonic là nền tảng AI all-in-one cho LinkedIn growth, tập trung vào
 ```
 SocialSonic (Mỹ):  LinkedIn only
                     ↓
-SocialVN (VN):     Facebook + TikTok (P0, MVP)
+BrandSonic (VN):     Facebook + TikTok (P0, MVP)
                     + LinkedIn + YouTube + Instagram (P1, v1.5)
                     + Threads + Zalo OA (P2, v2.0)
 ```
@@ -126,9 +126,9 @@ Thị trường personal branding tools tại Việt Nam:
 - **Giá**: Free → $20/tháng
 - **Mối đe dọa**: Rất cao — incumbent behavior, khó thay đổi thói quen
 
-### Cơ hội khác biệt hóa cho SocialVN
+### Cơ hội khác biệt hóa cho BrandSonic
 
-| Yếu tố | Hiện trạng thị trường VN | Cơ hội SocialVN |
+| Yếu tố | Hiện trạng thị trường VN | Cơ hội BrandSonic |
 |---------|--------------------------|-----------------|
 | Đa nền tảng + AI | Không ai kết hợp | All-in-one: Facebook + TikTok + LinkedIn + YouTube + Instagram |
 | Personal branding strategy | Không có tool nào | AI coaching: gợi ý content strategy, posting frequency, niche positioning |
@@ -252,7 +252,7 @@ Thị trường personal branding tools tại Việt Nam:
   2. Content thể hiện expertise về EdTech và startup journey
   3. Tăng inbound leads và investor interest qua personal brand
 - **Unexpected insight**: Khoa có rất nhiều insights hay trong đầu nhưng không biết cách "đóng gói" thành content. Anh cần AI giúp biến 1 câu ý tưởng thành bài post hoàn chỉnh, không phải viết từ đầu.
-- **Product fit**: SocialVN cần "idea to post" workflow cực nhanh, multi-platform publishing, và voice learning để content nghe như Khoa viết.
+- **Product fit**: BrandSonic cần "idea to post" workflow cực nhanh, multi-platform publishing, và voice learning để content nghe như Khoa viết.
 
 ### Persona 2: Thảo — "Content Creator"
 - **Tuổi**: 27, full-time content creator về skincare & lifestyle, Đà Nẵng
@@ -268,7 +268,7 @@ Thị trường personal branding tools tại Việt Nam:
   2. Trend alerts real-time cho ngành skincare/beauty tại VN
   3. 1 dashboard analytics cho tất cả nền tảng
 - **Unexpected insight**: Thảo không cần AI viết thay hoàn toàn — cô cần AI làm "trợ lý repurpose". Cô tạo content gốc (video) nhưng cần AI biến nó thành text content cho các nền tảng khác.
-- **Product fit**: SocialVN cần content repurposer mạnh (video transcript → multi-platform text), trend detection VN, và unified analytics. Thảo trả 299-499K/tháng nếu tiết kiệm >2 giờ/ngày.
+- **Product fit**: BrandSonic cần content repurposer mạnh (video transcript → multi-platform text), trend detection VN, và unified analytics. Thảo trả 299-499K/tháng nếu tiết kiệm >2 giờ/ngày.
 
 ### Persona 3: Minh Anh — "Marketing Expert"
 - **Tuổi**: 30, Senior Marketing Manager tại FMCG, HN
@@ -283,7 +283,7 @@ Thị trường personal branding tools tại Việt Nam:
   2. Templates cho thought leadership posts (không phải viết từ blank page)
   3. Gamification để duy trì consistency (streak, milestones)
 - **Unexpected insight**: Minh Anh không thiếu kiến thức — cô thiếu confidence và consistency. Cô cần AI như một "content coach" khuyến khích và giúp cô vượt qua writer's block, không chỉ là tool viết.
-- **Product fit**: SocialVN cần AI coaching/encouragement, content templates cho thought leadership, gamification mạnh, và "safe space" để draft trước khi publish. Minh Anh trả 199K/tháng.
+- **Product fit**: BrandSonic cần AI coaching/encouragement, content templates cho thought leadership, gamification mạnh, và "safe space" để draft trước khi publish. Minh Anh trả 199K/tháng.
 
 ---
 
@@ -305,7 +305,7 @@ Biết personal branding quan trọng nhưng không có thời gian. Mỗi bài 
 - Thấy đối thủ/đồng nghiệp xây brand mạnh → FOMO nhưng không hành động
 
 **4. How (Giải pháp)**
-SocialVN giúp bạn:
+BrandSonic giúp bạn:
 - **Idea → Post trong 60 giây**: Nhập 1 câu ý tưởng → AI viết bài hoàn chỉnh bằng giọng của bạn
 - **1 bài → 5 nền tảng**: Auto-repurpose cho Facebook, LinkedIn, TikTok script, Instagram caption, Threads
 - **Trend radar VN**: Phát hiện topics đang hot trong ngành của bạn trên social media VN
@@ -332,7 +332,7 @@ SocialVN giúp bạn:
 | Tự viết | 1-2 giờ/bài, không consistent, bỏ cuộc sau 2 tuần |
 
 ### Value Proposition Statement
-> **SocialVN biến 1 ý tưởng thành content cho 5 nền tảng trong 60 giây — bằng giọng của bạn, đúng trend VN, đăng tự động, track kết quả. Xây dựng thương hiệu cá nhân mà không cần bỏ việc chính.**
+> **BrandSonic biến 1 ý tưởng thành content cho 5 nền tảng trong 60 giây — bằng giọng của bạn, đúng trend VN, đăng tự động, track kết quả. Xây dựng thương hiệu cá nhân mà không cần bỏ việc chính.**
 
 ---
 
@@ -367,7 +367,7 @@ SocialVN giúp bạn:
 ## 8. PRD — Product Requirements Document
 
 ### 1. Summary
-SocialVN là nền tảng AI all-in-one giúp professionals và creators Việt Nam xây dựng thương hiệu cá nhân trên đa nền tảng mạng xã hội. Platform kết hợp AI content creation (fine-tuned tiếng Việt), trend detection VN, content repurposing, smart scheduling, gamification, và unified analytics.
+BrandSonic là nền tảng AI all-in-one giúp professionals và creators Việt Nam xây dựng thương hiệu cá nhân trên đa nền tảng mạng xã hội. Platform kết hợp AI content creation (fine-tuned tiếng Việt), trend detection VN, content repurposing, smart scheduling, gamification, và unified analytics.
 
 ### 2. Contacts
 
@@ -636,7 +636,7 @@ SocialVN là nền tảng AI all-in-one giúp professionals và creators Việt 
 
 | Giai đoạn | Touchpoint | Hành động | Cảm xúc | Pain Point | Cơ hội |
 |-----------|------------|-----------|---------|------------|--------|
-| **Awareness** | Facebook, LinkedIn | Thấy founder khác chia sẻ: "Dùng SocialVN đăng 5 bài/tuần mà chỉ tốn 20 phút" | Tò mò, hơi FOMO 🤔 | "Lại tool AI nữa à? ChatGPT đủ rồi" | Before/after demo: "Trước: 1 bài/tháng → Sau: 4 bài/tuần" |
+| **Awareness** | Facebook, LinkedIn | Thấy founder khác chia sẻ: "Dùng BrandSonic đăng 5 bài/tuần mà chỉ tốn 20 phút" | Tò mò, hơi FOMO 🤔 | "Lại tool AI nữa à? ChatGPT đủ rồi" | Before/after demo: "Trước: 1 bài/tháng → Sau: 4 bài/tuần" |
 | **Consideration** | Website, reviews | Xem demo video, đọc case study founder VN, so sánh với ChatGPT workflow | Quan tâm, đang evaluate 😐 | "Liệu AI viết có giống giọng mình không?" | Live demo: nhập ý tưởng → generate bài → "Wow, giống giọng mình thật" |
 | **Acquisition** | Website signup | Đăng ký free trial, connect Facebook + LinkedIn | Kỳ vọng nhưng hơi lo về privacy 😊😅 | "Connect social account có an toàn không?" | Trust signals: "Không bao giờ post mà không có sự đồng ý", security badges |
 | **Onboarding** | In-app | Setup: chọn niche, upload 10 bài mẫu cho voice learning, chọn nền tảng | Mất 10 phút nhưng thấy đáng 😅 | Nếu phải upload quá nhiều → skip | Quick start: import trực tiếp từ Facebook/LinkedIn, chỉ cần 5 bài |
@@ -668,17 +668,17 @@ SocialVN là nền tảng AI all-in-one giúp professionals và creators Việt 
 ## 11. North Star Metric
 
 ### Phân loại Business Game
-SocialVN thuộc **Productivity Game** — giúp người dùng xây dựng personal brand hiệu quả hơn.
+BrandSonic thuộc **Productivity Game** — giúp người dùng xây dựng personal brand hiệu quả hơn.
 
 ### North Star Metric
 
-> **Weekly Active Publishers (WAP)** — Số người dùng đăng ≥ 1 bài (qua SocialVN) trên bất kỳ nền tảng nào trong 7 ngày qua
+> **Weekly Active Publishers (WAP)** — Số người dùng đăng ≥ 1 bài (qua BrandSonic) trên bất kỳ nền tảng nào trong 7 ngày qua
 
 **Tại sao WAP?**
 
 | Tiêu chí | Đánh giá |
 |----------|----------|
-| Dễ hiểu | ✅ "Người dùng đăng bài hàng tuần qua SocialVN" |
+| Dễ hiểu | ✅ "Người dùng đăng bài hàng tuần qua BrandSonic" |
 | Customer-centric | ✅ Phản ánh giá trị: user đang thực sự xây dựng personal brand |
 | Sustainable value | ✅ Đăng bài hàng tuần = thói quen đã hình thành, personal brand đang grow |
 | Vision alignment | ✅ "Giúp mọi professional VN xây personal brand" = họ phải đăng content |
@@ -734,7 +734,7 @@ SocialVN thuộc **Productivity Game** — giúp người dùng xây dựng pers
 | Kênh | Hoạt động | Mục tiêu |
 |------|-----------|----------|
 | Facebook Group | Tạo "Personal Branding VN" community — chia sẻ tips, case studies, templates miễn phí | 5K members |
-| Founder's personal brand | Founder SocialVN tự xây personal brand trên Facebook + LinkedIn (eat your own dog food) | 10K followers, proof of concept |
+| Founder's personal brand | Founder BrandSonic tự xây personal brand trên Facebook + LinkedIn (eat your own dog food) | 10K followers, proof of concept |
 | TikTok series | "Cách xây personal brand từ 0" — educational content | 500K views, 15K followers |
 | LinkedIn VN | Thought leadership content về personal branding + AI | 3K followers |
 | Webinar series | "Personal Branding Masterclass" — 4 sessions miễn phí | 1K attendees, 500 waitlist |
@@ -748,7 +748,7 @@ SocialVN thuộc **Productivity Game** — giúp người dùng xây dựng pers
 | Facebook Ads | Video ads: demo "1 ý tưởng → 5 bài trong 60 giây" | 20% |
 | KOL Campaign | 10 founders/experts nổi tiếng review + 30 micro-KOLs | 25% |
 | TikTok Ads | Short-form demo videos, UGC style | 15% |
-| Community Launch | Facebook Group "SocialVN Community" — exclusive tips, challenges | 5% |
+| Community Launch | Facebook Group "BrandSonic Community" — exclusive tips, challenges | 5% |
 | PR & Media | Bài viết trên Vietcetera, CafeBiz, Brands Vietnam, GenK | 10% |
 | Referral Program | "Mời bạn → cả hai nhận 1 tháng Pro free" | 10% |
 | LinkedIn Campaign | Targeted ads cho professionals VN | 10% |
@@ -759,17 +759,17 @@ SocialVN thuộc **Productivity Game** — giúp người dùng xây dựng pers
 | Kênh | Hoạt động |
 |------|-----------|
 | Viral loops | Shareable achievements/badges → bạn bè thấy → tải app |
-| "Powered by SocialVN" | Watermark nhẹ trên scheduled posts (free tier) → organic discovery |
+| "Powered by BrandSonic" | Watermark nhẹ trên scheduled posts (free tier) → organic discovery |
 | Community challenges | Monthly challenges với prizes → engagement + UGC |
 | Education partnerships | Hợp tác với khóa học: Tomorrow Marketers, CASK, AIM Academy, Spiderum |
 | Startup ecosystem | Partnerships với accelerators, co-working spaces (Toong, Dreamplex, UP) |
-| Agency program | Agencies dùng SocialVN cho clients → channel sales |
+| Agency program | Agencies dùng BrandSonic cho clients → channel sales |
 | Content SEO | Blog: "Cách xây personal brand trên Facebook", "TikTok cho doanh nhân"... |
 | Event sponsorship | Sponsor/speak tại marketing events, startup events |
 
 ### Partnerships chiến lược
 
-| Partner | Giá trị cho SocialVN | Giá trị cho Partner |
+| Partner | Giá trị cho BrandSonic | Giá trị cho Partner |
 |---------|---------------------|---------------------|
 | Tomorrow Marketers / CASK | Reach 20K+ marketing professionals | Tool cho học viên, co-branded workshops |
 | Startup accelerators (VSV, VIISA) | Reach founders mới | Personal branding tool cho portfolio companies |
@@ -818,9 +818,9 @@ Market Research          Strategy              Execution           Go-to-Market
 5. User Personas
 ```
 
-### SocialVN vs SocialSonic — Tóm tắt khác biệt
+### BrandSonic vs SocialSonic — Tóm tắt khác biệt
 
-| Yếu tố | SocialSonic | SocialVN |
+| Yếu tố | SocialSonic | BrandSonic |
 |---------|-------------|----------|
 | Nền tảng | LinkedIn only | Facebook + TikTok + LinkedIn + YouTube + Instagram + Threads |
 | Ngôn ngữ | English-first | Vietnamese-first |

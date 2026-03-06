@@ -9,7 +9,7 @@ Bộ sưu tập tài liệu Product Management (PM) Full Flow cho các dự án 
 | MoneyZ | Ứng dụng quản lý tài chính cá nhân | [MoneyZ-Full-PM-Flow.md](MoneyZ-Full-PM-Flow.md) |
 | EduCareer VN | Nền tảng AI all-in-one cho học tập, giảng dạy và phát triển sự nghiệp | [EduCareerVN-Full-PM-Flow.md](EduCareerVN-Full-PM-Flow.md) |
 | LinkedInSonic | Công cụ AI tối ưu hóa nội dung LinkedIn cho thị trường Việt Nam | [LinkedInSonic-Full-PM-Flow.md](LinkedInSonic-Full-PM-Flow.md) |
-| SocialVN | Mạng xã hội nội địa Việt Nam | [SocialVN-Full-PM-Flow.md](SocialVN-Full-PM-Flow.md) |
+| BrandSonic | Nền tảng AI xây dựng thương hiệu cá nhân đa nền tảng mạng xã hội | [BrandSonic-Full-PM-Flow.md](BrandSonic-Full-PM-Flow.md) |
 
 ## Cấu trúc Full PM Flow (11 phần)
 
