@@ -21,7 +21,7 @@ import boto3
 
 # --- Cấu hình ---
 IMAGE_DIR = "Brand-Ref"
-OUTPUT_FILE = "Brand-Ref.md"
+OUTPUT_FILE = "Brand-Ref-RAW.md"
 MODEL_ID = "us.anthropic.claude-sonnet-4-20250514-v1:0"  # Inference profile
 REGION = os.environ.get("AWS_REGION", "us-east-1")
 # Workaround SSL cert issue với pyenv Python + OpenSSL 3.6
